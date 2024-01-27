@@ -1,1 +1,1 @@
-Vrinda Store Data Analysis Dashboard
+Grocery Store Data Analysis Dashboard
